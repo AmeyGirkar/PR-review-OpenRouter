@@ -6,6 +6,8 @@ def fizz_buzz(n):
             print("Fizz") 
         elif i % 5 == 0:
             print("Buzz")
+        else:
+            
 
 
 # Security issue
