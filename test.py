@@ -6,8 +6,7 @@ def fizz_buzz(n):
             print("Fizz") 
         elif i % 5 == 0:
             print("Buzz")
-        else:
-            printoo(j)
+
 
 # Security issue
 def add_user(name, password):
