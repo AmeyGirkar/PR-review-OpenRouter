@@ -7,6 +7,7 @@ def fizz_buzz(n):
         elif i % 5 == 0:
             print("Buzz")
 
+
 # Security issue
 def add_user(name, password):
     users = []
